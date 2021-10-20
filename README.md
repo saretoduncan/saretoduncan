@@ -3,13 +3,13 @@
 <h4>
   My name is Duncan Moiyo.👋🤓
 </h4>
- <p>I'm a Full-stack Web Developer,An aesthete, Self-starter and collaborative team player with well-honed communication and listening skills.
+ <p>Skilled Software Developer with Extensive experience in Java, Spring Boot, Hibernate, Android, ReactJs,Angular along with Data Structures & Algorithms.
 </p>
 <h3> 👨🏻‍💻 &nbsp; More About Me:</h3> 
 
 - 🔭  I’m daily working on **Sharpening my skills and developing projects with developers from all over the globe.**
 - ⚡  Fact: **"Good code is like a good joke: It needs no explanation". Russ Olsen(Eloquent Ruby).**
-- 👯  I’m looking forward to collaborate on **python,Django,flask,JavaScript,React Projects.**
+- 👯  I’m looking forward to collaborate on **Java, springboot,JavaScript,React Projects.**
 - 💬  Ask me about **Technology, Troubleshooting, Psychology, History, Art.**
 
 <div>
